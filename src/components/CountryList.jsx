@@ -19,8 +19,8 @@ const CountryList = ({ cities, isLoading }) => {
 
   return (
     <ul className={styles.countryList}>
-      {countries.map((country, index) => (
-        <CountryItem key={index} country={country} />
+      {countries.map((country) => (
+        <CountryItem key={country.country} country={country} />
       ))}
     </ul>
   );
