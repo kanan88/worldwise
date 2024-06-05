@@ -35,6 +35,66 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-06-05T16:35:34.925Z",
+      "notes": "I will be back again!",
+      "position": {
+        "lat": "48.8936153614802",
+        "lng": "2.3291015625000004"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-06-05T16:41:55.220Z",
+      "notes": "Greatest city!!!",
+      "position": {
+        "lat": "41.89664820861667",
+        "lng": "12.466707676649095"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Budapest",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2024-06-05T16:44:33.480Z",
+      "notes": "Parliament Building!!!",
+      "position": {
+        "lat": "47.50978034953473",
+        "lng": "19.039306640625004"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Zagreb",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2024-06-05T16:46:11.952Z",
+      "notes": "",
+      "position": {
+        "lat": "45.82879925192134",
+        "lng": "15.985107421875002"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Baku",
+      "country": "Azerbaijan",
+      "emoji": "🇦🇿",
+      "date": "2024-06-05T16:46:59.708Z",
+      "notes": "",
+      "position": {
+        "lat": "40.37412735147411",
+        "lng": "49.844615980982795"
+      },
+      "id": 98443203
     }
   ]
 }
