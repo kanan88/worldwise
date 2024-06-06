@@ -7,7 +7,7 @@ const FAKE_USER = {
   avatar: "https://i.pravatar.cc/100?u=zz",
 };
 
-function User() {
+const User = () => {
   const user = FAKE_USER;
 
   function handleClick() {}
@@ -19,7 +19,7 @@ function User() {
       <button onClick={handleClick}>Logout</button>
     </div>
   );
-}
+};
 
 export default User;
 
