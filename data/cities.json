@@ -47,6 +47,30 @@
         "lng": "2.3291015625000004"
       },
       "id": 98443198
+    },
+    {
+      "cityName": "Geneve",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2024-06-06T14:27:53.564Z",
+      "notes": "Peaceful and beautiful, but not much to do.",
+      "position": {
+        "lat": "46.20074541128312",
+        "lng": "6.1461639404296875"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Las Vegas",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-06-06T16:06:36.730Z",
+      "notes": "Good poker games",
+      "position": {
+        "lat": "36.13787471840729",
+        "lng": "-115.13671875"
+      },
+      "id": 98443200
     }
   ]
 }

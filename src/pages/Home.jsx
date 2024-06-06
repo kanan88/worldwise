@@ -1,6 +1,6 @@
-import { Link } from 'react-router-dom';
-import styles from './Home.module.css';
-import PageNav from '../components/PageNav';
+import { Link } from "react-router-dom";
+import styles from "./Home.module.css";
+import PageNav from "../components/PageNav";
 
 const Home = () => {
   return (
@@ -18,7 +18,7 @@ const Home = () => {
           of. Never forget your wonderful experiences, and show your friends how
           you have wandered the world.
         </h2>
-        <Link to="/app" className="cta">
+        <Link to="/login" className="cta">
           Start tracking now
         </Link>
       </section>
