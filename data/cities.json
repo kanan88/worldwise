@@ -71,6 +71,126 @@
         "lng": "-115.13671875"
       },
       "id": 98443200
+    },
+    {
+      "cityName": "Bratislava",
+      "country": "Slovakia",
+      "emoji": "🇸🇰",
+      "date": "2024-06-08T10:54:15.276Z",
+      "notes": "",
+      "position": {
+        "lat": "48.10743118848039",
+        "lng": "17.116699218750004"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Valletta",
+      "country": "Malta",
+      "emoji": "🇲🇹",
+      "date": "2024-06-11T08:51:17.175Z",
+      "notes": "",
+      "position": {
+        "lat": "35.89795019335754",
+        "lng": "14.513282775878908"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Palermo",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-06-11T08:52:55.785Z",
+      "notes": "",
+      "position": {
+        "lat": "38.10430528370985",
+        "lng": "13.356628417968752"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Monaco",
+      "country": "Monaco",
+      "emoji": "🇲🇨",
+      "date": "2024-06-11T08:53:18.376Z",
+      "notes": "",
+      "position": {
+        "lat": "43.72893315253811",
+        "lng": "7.415771484375001"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-06-11T08:53:43.634Z",
+      "notes": "",
+      "position": {
+        "lat": "51.37178037591739",
+        "lng": "-0.087890625"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Amsterdam",
+      "country": "Netherlands (Kingdom of the)",
+      "emoji": "🇳🇱",
+      "date": "2024-06-11T08:54:20.313Z",
+      "notes": "",
+      "position": {
+        "lat": "52.36553758871974",
+        "lng": "4.899902343750001"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Vienna",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2024-06-11T08:54:34.685Z",
+      "notes": "",
+      "position": {
+        "lat": "48.204540845239244",
+        "lng": "16.372375488281254"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Prague",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2024-06-11T08:54:53.641Z",
+      "notes": "",
+      "position": {
+        "lat": "50.07124366044474",
+        "lng": "14.414062500000002"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Budapest",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2024-06-11T08:55:03.511Z",
+      "notes": "",
+      "position": {
+        "lat": "47.45780853075031",
+        "lng": "19.050292968750004"
+      },
+      "id": 98443210
+    },
+    {
+      "cityName": "Chania",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2024-06-11T08:55:26.386Z",
+      "notes": "",
+      "position": {
+        "lat": "35.47856499535729",
+        "lng": "24.049072265625"
+      },
+      "id": 98443211
     }
   ]
 }
