@@ -25,9 +25,6 @@ const AppLayout = lazy(() => import("./pages/AppLayout"));
 const PageNotFound = lazy(() => import("./pages/PageNotFound"));
 const Login = lazy(() => import("./pages/Login"));
 
-// dist/assets/index-Cvrd9M-g.css   29.88 kB │ gzip:   5.05 kB
-// dist/assets/index-D_lfkbkP.js   514.63 kB │ gzip: 148.44 kB
-
 const App = () => {
   return (
     <AuthProvider>
